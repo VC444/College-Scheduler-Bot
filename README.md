@@ -1,5 +1,6 @@
 # College-Scheduler-Bot
 This bot helps you keep track of your exams and homeworks. I am currently working on integrating it with facebook messenger.
+Built using Amazon Lex, AWS Lambda, and Dynamo DB.
 
 ## Scheduler.js
 This lambda function fires when the user wants to add/delete an exam or homework to his/her scheduler.
